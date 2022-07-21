@@ -1,19 +1,9 @@
-Copyright 2022 London App Brewery LTD (www.appbrewery.com)
+NFT market for selling and buying NFTs
 
-The code in this tutorial project is licended under the Apache License, Version 2.0 (the "License");
-you may not use this project except in compliance with the License.
-You may obtain a copy of the License at
+The front-end is written in HTML, CSS and React, the back-end is written in Motoko.
 
-    http://www.apache.org/licenses/LICENSE-2.0
+![image](https://user-images.githubusercontent.com/85099151/180166082-5358af00-05ce-43f8-bed8-69e32a80aa85.png)
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-Here is the TL;DR version of the above licence:
-https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)
 
 # To Install and Run the Project
 
